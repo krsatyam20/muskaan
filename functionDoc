@@ -1,0 +1,67 @@
+a=10
+b=20
+c=a+b
+
+a1=30
+b1=23
+c1=a1+b1
+
+
+45
+43
+
+a+b (10,20) (30,23)
+
+
+
+
+function : is a block  which is write once a time and use many times 
+
+
+function 
+
+   system define function  
+	print()
+	char()
+	int()
+
+user define 
+	which is defined by user
+	
+function str.
+
+	1. No argument no return
+	2. with argument no return
+	3. with argument with return
+	4. no argument with return
+	
+	
+function syn:
+		def functionName():
+			logic/method 
+			
+			
+# create a function 
+1. No argument no return
+
+   def hello():
+	print("hello student")
+
+#call a function 
+ hello()
+ 
+ 
+
+#	3. with argument with return
+
+def add(a,b):
+  c=a+b
+  return c
+  
+  
+  add(a,b) ''' here a and b is arguments 
+
+
+
+
+
